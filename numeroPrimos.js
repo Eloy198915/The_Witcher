@@ -10,7 +10,7 @@ function Esprimo(num) {
             return true;
         }
         console.log(Esprimo(23));
-        // hfhf
+        //
         
     
 
