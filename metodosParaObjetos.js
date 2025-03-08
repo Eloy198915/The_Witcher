@@ -38,3 +38,5 @@ console.log(resultado);
 */
 const resultado1 = Object.entries(usuario);
 console.log(resultado1);
+
+console.log(`El objeto tiene ${resultados.length} propiedades`); 
